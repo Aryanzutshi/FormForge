@@ -22,7 +22,7 @@ export function TypewriterEffectSmoothDemo() {
   return (
     <div id="home" className="flex flex-col items-center justify-center h-[40rem] bg-black  ">
       <p className="text-neutral-200 text-xs sm:text-base  ">
-      `"Good form is the foundation of every great workout"`
+      {"Good form is the foundation of every great workout"}
       </p>
       <TypewriterEffectSmooth words={words} />
       <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 space-x-0 md:space-x-4">
