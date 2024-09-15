@@ -14,13 +14,13 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-    {/* <NavbarDemo/> */}
-    <FloatingNavDemo/>
+    
+   <FloatingNavDemo/>
     <TypewriterEffectSmoothDemo/>
-    {/* <SparklesPreview/> */}
-    {/* <TextGenerateEffectDemo/> */}
-    {/* <BackgroundGradientDemo/> */}
-    {/* <HeroParallaxDemo/>1 */}
+     <SparklesPreview/> 
+     <TextGenerateEffectDemo/> 
+     <BackgroundGradientDemo/> 
+     <HeroParallaxDemo/>
     <TracingBeamDemo/>
     <ThreeDCardDemo/>
     <GoogleGeminiEffectDemo/>
