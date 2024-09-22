@@ -22,8 +22,8 @@ export default function Home() {
      <BackgroundGradientDemo/> 
      <HeroParallaxDemo/>
     <TracingBeamDemo/>
-    <ThreeDCardDemo/>
     <GoogleGeminiEffectDemo/>
+    <ThreeDCardDemo/>
     </>
   );
 }
