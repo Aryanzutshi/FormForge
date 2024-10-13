@@ -19,7 +19,7 @@ export default function Home() {
     <TypewriterEffectSmoothDemo/>
      <SparklesPreview/> 
      <TextGenerateEffectDemo/> 
-     <BackgroundGradientDemo/> 
+      {/* <BackgroundGradientDemo/> */} 
      <HeroParallaxDemo/>
     <TracingBeamDemo/>
     <GoogleGeminiEffectDemo/>
