@@ -143,7 +143,7 @@ export default function Home() {
             className="text-gray-500 max-w-md mx-auto"
             variants={itemVariants}
           >
-            We're working hard to bring you the ultimate fitness experience. Stay tuned!
+            We&apos;re working hard to bring you the ultimate fitness experience. Stay tuned!
           </motion.p>
         </motion.div>
 
